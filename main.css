@@ -71,6 +71,7 @@ body > header a:hover {
   transition: 0.5s;                     /*色の遷移に0.5秒かける*/
   background-color: #FFFFFF;            /*背景色を白に設定*/
   color: #000000;                       /*カラーを黒にする*/
+  text-shadow: None;                    /*ホバーした時のテキストシャドーを無しにする*/
 }
 #profile > img {
   margin-top: 3em;                      /*上側マージンを3文字分*/
