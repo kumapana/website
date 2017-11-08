@@ -43,6 +43,7 @@ body > header {
   background-repeat: no-repeat;         /*背景画像をリピートしない*/
   background-size: cover;               /*縦横比を固定して空白が出ないように拡大*/
   color: #FFFFFF;                       /*カラーを白*/
+  text-shadow: 0 0 0.125em #000000;
 }
 body > header p {
   margin: 0 0.5em 3em;                  /*header内のp要素のマージンを[上:0 左右:0.5文字分 下:3文字分]空ける*/
